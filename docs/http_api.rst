@@ -15,7 +15,7 @@ is the Vumi Go account key and the password is an access token that is
 stored in the conversation. In order to connect three keys are required:
 
 1. The account key
-2. The accesss token
+2. The access token
 3. The conversation key
 
 
